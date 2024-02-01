@@ -1,0 +1,5 @@
+venv
+logs
+.vscode
+.idea
+token.txt
