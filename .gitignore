@@ -2,4 +2,4 @@ venv
 logs
 .vscode
 .idea
-token.txt
+config.yaml
